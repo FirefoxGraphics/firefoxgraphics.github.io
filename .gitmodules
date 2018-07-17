@@ -1,0 +1,6 @@
+[submodule "submodules/moz-gfx-telemetry"]
+	path = submodules/moz-gfx-telemetry
+	url = https://github.com/FirefoxGraphics/moz-gfx-telemetry
+[submodule "submodules/graphicstriage"]
+	path = submodules/graphicstriage
+	url = https://github.com/FirefoxGraphics/graphicstriage
